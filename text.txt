@@ -1,0 +1,1 @@
+wget -O meshagent "https://rmm-mesh.astnd.co/meshagents?id=nB0eNLFDLMdrNgcvxmTH8vJUVoiG83WwKZY4ag2rZjbGiO%244EvrrgvRspOVWf0Vc&installflags=0&meshinstall=6"

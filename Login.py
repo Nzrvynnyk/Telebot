@@ -18,7 +18,7 @@ from selenium.webdriver.common.keys import Keys
 options = FirefoxOptions()
 options.add_argument("--headless")
 driver = webdriver.Firefox(options=options)
-driver.get("http://Admin:testst@176.112.112.24:8080/index.htm")
+driver.get("http://Admin:/index.htm")
 
 time.sleep(5)
 # fill in username and hit the next button
